@@ -1,5 +1,5 @@
 # AAAAAAMG.github.io
 PORTAFOLIO 
-<a href="index.html.html">Ver mi Portafolio Completo</a>
+<a href="parcial3Porta.html">Ver mi Portafolio Completo</a>
 
 
