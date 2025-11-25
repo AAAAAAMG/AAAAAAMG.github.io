@@ -1,0 +1,29 @@
+
+.bg-light {
+  background-color: #343a40 !important; 
+  color: #f8f9fa; 
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.75); 
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #ffffff; 
+}
+.navbar-light .navbar-brand {
+  color: #ffffff; 
+}
+
+
+
+.btn-primary {
+  background-color: #198754; 
+  border-color: #198754; 
+}
+
+
+.btn-primary:hover {
+  background-color: #157347; 
+  border-color: #146c43;
+}
